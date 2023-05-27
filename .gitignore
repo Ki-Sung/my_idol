@@ -1,0 +1,11 @@
+*.DS_Store
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+## python 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.idea
